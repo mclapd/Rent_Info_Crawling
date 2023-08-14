@@ -7,7 +7,7 @@ import time
 
 CHROME_DRIVER_PATH = "D:\Development\chromedriver.exe"
 REAL_ESTATE_URL = "https://www.domain.com.au/rent/fletcher-nsw-2287/?excludedeposittaken=1"
-GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScBCViNzigg93TTOJnxSGXO_6vtTZl6D2umfM-gqYqU4T1tBw/viewform"
+GOOGLE_FORM_URL = MY_GOOGLE_FORM
 
 
 header = {
